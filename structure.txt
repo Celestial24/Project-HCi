@@ -1,0 +1,48 @@
+Guidance
+    |- Carreer Counsel
+    |   |- Carreer Counseling and Consultation
+    |   |- Internship and Carreer Placement
+    |
+    |- Academic Counsel
+    |   |- Tutoring
+    |   |- Academic Advicing
+    |
+    |- Life Counsel
+        |- Family, Hobies, and Procreation Education
+        |- Student Disability Services
+
+
+
+
+Repo Structure of Executables:
+
+Guidance
+    |- Mod1(folder)
+    |   |- submod1(folder)
+    |   |   |- submod1
+    |   |   
+    |   |- submod2(folder)
+    |   |   |- submod2
+    |   |
+    |   |-Mod1
+    |
+    |- Mod2(folder)
+    |   |- submod1(folder)
+    |   |   |- submod1
+    |   |   
+    |   |- submod2(folder)
+    |   |   |- submod2
+    |   |
+    |   |-Mod2
+    |
+    |- Mod3(folder)
+    |   |- submod1(folder)
+    |   |   |- submod1
+    |   |   
+    |   |- submod2(folder)
+    |   |   |- submod2
+    |   |
+    |   |-Mod3
+    |   
+    |- Dashboard
+    |- Login
