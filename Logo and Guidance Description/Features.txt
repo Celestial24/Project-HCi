@@ -1,0 +1,42 @@
+Features
+    |
+    |- Website Basic Functions
+    |   |
+    |   |- Humburger Menu/Sidapanel
+    |       |
+    |       |-(structure/modules and submodules)
+    |   
+    |- Header
+    |   |
+    |   |- Home (Home Page)
+    |   |
+    |   |- About
+    |   |   |- Counselors
+    |   |       |- Short Bios and Roles/Experiences
+    |   |       |- Pictures  
+    |   |   
+    |   |- Contact (Guidance)
+    |   |
+    |   |- Services
+    |       |- Description
+    |
+    |- Website Footer 
+    |   |- About Guidance
+    |       |- Schedule Hours
+    |       |- Contanct Info
+    |       |- Contact Form
+    |
+    |- Internal Web Pages
+    |   |- (structure/modules and submodules)
+    |
+    |- Home Page Features
+    |   |- Domain Name
+    |   |- Logo
+    |   |- Description
+    |   |- Internal Links
+    |
+    |- Team
+    |   |- About us
+    |
+    |- Back-End Functionalities
+        |- (we don't know yet)

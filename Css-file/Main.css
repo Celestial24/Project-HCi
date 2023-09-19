@@ -1,0 +1,65 @@
+
+
+
+.container{
+    width: 100%;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 9px;
+    ;
+}
+
+.container-selection{
+
+    padding: 0 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.container-selection .card img{
+    width: 100%;
+    
+}
+
+.container-selection .card h1 {
+    margin: 11px 0px;
+}
+
+.btn{
+    background-color: #B5EAFC;
+    margin-top: 20px;
+    width: 100px;
+    min-height: 50px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+
+.card1 {
+    background-color: B5EAFC;
+    margin-right: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.card2{
+    margin-right: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.card3 {
+
+    margin-right: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
